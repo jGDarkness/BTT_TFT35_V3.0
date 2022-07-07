@@ -1,5 +1,7 @@
 <!-- omit in toc -->
 
+# This is a clone of the TFT firmware customized for my own use.
+
 # BigTreeTech TFT Touchscreen
 
 ![GitHub](https://img.shields.io/github/license/bigtreetech/bigtreetech-TouchScreenFirmware.svg)
